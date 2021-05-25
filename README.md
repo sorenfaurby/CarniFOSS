@@ -11,20 +11,20 @@ The database paper describing the underlying database is currently under review.
 
 ### Data
 The database contains seven separate files 
-Metadata [here] (https://en.wikipedia.org/wiki/42_(number)) explains the logic in the remaining six files
+Metadata [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Metadata.pdf) explains the logic in the remaining six files
 
-Reported_size [here] (https://en.wikipedia.org/wiki/42_(number)) gives raw tooth lenght rapported from literature
+Reported_size [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Reported_size.csv) gives raw tooth lenght rapported from literature
 
-Bone_size_Hyaenodonta_and_Oxyaenida [here] (https://en.wikipedia.org/wiki/42_(number)) gives measurement on long-bones on selected Hyaenodonta and Oxyaenida
+Bone_size_Hyaenodonta_and_Oxyaenida [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Bone_size_Hyaenodonta_and_Oxyaenida.csv) gives measurement on long-bones on selected Hyaenodonta and Oxyaenida
 
-Bone_size_Carnivoramorpha [here] (https://en.wikipedia.org/wiki/42_(number)) gives source and method of calculation of long-bone derived estimates of body mass for selected Carnivoramorpha
+Bone_size_Carnivoramorpha [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Bone_size_%20Carnivoramorpha.csv) gives source and method of calculation of long-bone derived estimates of body mass for selected Carnivoramorpha
 
-References [here] (https://en.wikipedia.org/wiki/42_(number)) provides the full reference to all information given in the last three files
+References [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/References.csv) provides the full reference to all information given in the last three files
 
-Inferred_Size_Hyaenodonta_and_Oxyaenida [here] (https://en.wikipedia.org/wiki/42_(number)) gives inferred or rapported tooth length and body mass for all Hyaenodonta and Oxyaenida
+Inferred_Size_Hyaenodonta_and_Oxyaenida [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Inferred_Size_Hyaenodonta_and_Oxyaenida.csv) gives inferred or rapported tooth length and body mass for all Hyaenodonta and Oxyaenida
 
 
-Inferred_Size_Carnivoramorpha [here] (https://en.wikipedia.org/wiki/42_(number)) gives inferred or rapported tooth length and body mass for all Carnivoramorpha i.e. all  Carnivora and Miacoidea
+Inferred_Size_Carnivoramorpha [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Inferred_Size_Carnivoramorpha.csv) gives inferred or rapported tooth length and body mass for all Carnivoramorpha i.e. all  Carnivora and Miacoidea
 
 ### Improvements
 We have tried our very best to collect all availbale information but it is unavoidable that there are a few errors or missing data. We would therefore greatly appreaciate if any user of this database could inform us about disagreements about taxonomy, missing data they have suggestions to how to fill or any values they suspect to be wrong. Plase mail soren.faurby@bioenv.gu.se for any such concerns   
