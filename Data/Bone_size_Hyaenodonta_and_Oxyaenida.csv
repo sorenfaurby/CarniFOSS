@@ -1,0 +1,21 @@
+Family,Species,anteroposterior_width_of_Humerus,mesiolateral_width_of_Humerus,anteroposteriorer_cross_sectional_width_of_humeral_bone_cavity,mesiolateraler_cross_sectional_width_of_humeral_bone_cavity,length_of_humerus,length_of_ulna,anteroposterior_width_of_femur,mesiolateral_width_of_femur,anteroposteriorer_cross_sectional_width_of_femoral_bone_cavity,mesiolateraler_cross_sectional_width_of_femoral_bone_cavity,length_of_femur,length_of_tibia,FCA,HCA,FDA,HDA
+Hyaenodontidae,Arfia shoshoniensis,8.04,7.18,NA,NA,97.67,NA,7.6,6.05,NA,NA,87.06,NA,NA,NA,46.01,57.71
+Hyaenodontidae,Limnocyon potens,NA,NA,NA,NA,NA,NA,NA,12.2,NA,NA,124.49,117.56,NA,NA,NA,NA
+Hyaenodontidae,Limnocyon verus,8.98,7.57,NA,NA,91.9,91.17,7.42,8.84,NA,NA,101.1,95.37,NA,NA,65.61,67.96
+Hyaenodontidae,Oxyaenoides bicuspidens,15.06,11.91,NA,NA,139.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,179.34
+Hyaenodontidae,Prototomus martis,7.33,6.48,NA,NA,81.9,NA,6.48,7.33,NA,NA,87.82,NA,NA,NA,47.46,47.48
+Hyaenodontidae,Prototomus secundarius,3.49,4.33,2.23,4.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.64,NA,15.1
+Hyaenodontidae,Pyrocyon dioctetus,5.67,NA,NA,NA,77.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hyaenodontidae,Sinopa major,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59.27,NA,112.55,NA
+Hyaenodontidae,Thinocyon medius,5.02,3.67,NA,NA,50.96,47.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,18.44
+Hyaenodontidae,Thinocyon velox,NA,NA,NA,NA,NA,NA,4.65,4.94,NA,62.23,64.39,NA,NA,NA,22.95,NA
+Hyaenodontidae,Tritemnodon agilis,9.38,7.32,NA,NA,117.8,NA,8.84,NA,12.5,NA,150.56,NA,NA,NA,NA,68.66
+Oxyaenidae,Dipsalidictis krausei,NA,NA,NA,NA,NA,NA,4.58,7.66,NA,67.4,NA,NA,NA,NA,35.09,NA
+Oxyaenidae,Machaeroides eothen,13.9,9.38,NA,NA,105.27,101.17,NA,NA,NA,116.15,NA,NA,NA,NA,NA,130.39
+Oxyaenidae,Oxyaena forcipata,20.1,15.27,6.39,5.96,161.22,172.5,NA,NA,NA,NA,184.34,165.96,NA,211.11,NA,306.84
+Oxyaenidae,Oxyaena gulo,13,10.26,NA,NA,NA,NA,17.37,12.84,5.82,4.26,129.9,131.64,155.71,NA,223.04,133.33
+Oxyaenidae,Oxyaena intermedia,20.28,14.38,NA,NA,149.31,NA,20.08,NA,NA,NA,NA,NA,NA,NA,NA,291.59
+Oxyaenidae,Palaeonictis occidentalis,NA,NA,NA,NA,NA,NA,12.32,16.34,NA,NA,NA,NA,NA,NA,201.28,NA
+Oxyaenidae,Patriofelis ferox,21.13,20.71,NA,NA,194.75,229.74,34.78,31.67,NA,NA,254.58,195.03,NA,NA,1101.48,437.65
+Oxyaenidae,Patriofelis ulta,NA,NA,NA,NA,NA,NA,18.85,25.87,NA,NA,199.51,NA,NA,NA,487.57,NA
+Oxyaenidae,Protopsalis tigrinus,NA,NA,NA,NA,NA,NA,19.87,37.25,5.71,11.81,NA,NA,528.29,NA,740.1,NA
