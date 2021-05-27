@@ -1,0 +1,285 @@
+Family,Genus,Species,Size ,Source,Note
+Barbourofelidae,Barbourofelis,morrisi,122,Anyonge (1993) Journal of Zoology 231 339-350,Median of measurements bsaed on equation for felids)
+Felidae,Amphimachairodus,coloradensis,172,Anyonge (1993) Journal of Zoology 231 339-350,Median of measurements bsaed on equation for felids)
+Felidae,Homotherium,serum,185,Anyonge (1993) Journal of Zoology 231 339-350,Median of measurements bsaed on equation for felids)
+Felidae,Panthera,atrox,374,Anyonge (1993) Journal of Zoology 231 339-350,Median of measurements bsaed on equation for felids)
+Felidae,Smilodon ,fatalis,391,Anyonge (1993) Journal of Zoology 231 339-350,Median of measurements bsaed on equation for felids)
+Amphicyonidae,Adilophontes,brachykolos,137.5,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Amphicyon,frendens,432,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Amphicyon,galushai,191,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Amphicyon,ingens,579,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Amphicyon,major,209,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Borocyon,neomexicanus,87,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Daphoenodon,falkenbachi,137,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Daphoenodon,skinneri,40,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Daphoenus,hartshornianus,11,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Daphoenus,vetus,27,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Ischyrocyon,gidleyi,250,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Paradaphoenus,cuspigerus,4,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Pliocyon,medius,133,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Pseudocyon,sansaniensis,245,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Amphicyonidae,Ysengrinia,americana,185,Figueirido et al (2011) Acta Palaeontologica Polonica 56 225–246,Median of all metrics from table 6
+Miacidae,Miacis,petilus,1.3,Heinrich & Houde (2006) Journal of Vertebrate Paleontology 26 422-435,Reported value
+Miacidae,Vulpavus,canavus,4.5,Heinrich & Houde (2006) Journal of Vertebrate Paleontology 26 422-435,Reported mean
+Viverravidae,Didymictis,protenus,5,Heinrich & Houde (2006) Journal of Vertebrate Paleontology 26 422-435,Reported mean
+Viverravidae,Viverravus,acutus,0.24,Heinrich & Houde (2006) Journal of Vertebrate Paleontology 26 422-435,Median of measurements for Dataset III
+Ailuridae,Ailurus,fulgens,4.9,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Atelocynus,microtis,7.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,adustus,10.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,aureus,10.345,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,latrans,13.406,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,lupus,32.183,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,mesomelas,8.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,rufus,22.983,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Canis,simensis,10,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Cerdocyon,thous,5.24,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Chrysocyon,brachyurus,23.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Cuon,alpinus,12.76,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Dusicyon,australis,50.004,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Dusicyon,avus,13,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,culpaeus,9.832,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,fulvipes,2.838,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,griseus,8.28,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,gymnocercus,4.69,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,sechurae,4,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycalopex,vetulus,5.35,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Lycaon,pictus,22.05,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Nyctereutes,procyonoides,4.04,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Otocyon,megalotis,4.15,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Speothos,venaticus,6,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Urocyon,cinereoargenteus,3.834,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Urocyon,littoralis,1.896,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,bengalensis,2.726,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,cana,0.937,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,chama,2.955,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,corsac,2.4,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,ferrilata,5,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,lagopus,4.868,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,macrotis,2.05,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,pallida,2.8,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,rueppellii,2.865,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,velox,2.198,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,vulpes,5.318,Faurby et al (2018) Ecology 99 2626,Reported value
+Canidae,Vulpes,zerda,1.1,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Cryptoprocta,ferox,9.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Cryptoprocta,spelea,17,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Eupleres,goudotii,3,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Eupleres,major,2.712,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Fossa,fossana,1.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Galidia,elegans,0.8,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Galidictis,fasciata,0.55,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Galidictis,grandidieri,1.4,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Mungotictis,decemlineata,0.65,Faurby et al (2018) Ecology 99 2626,Reported value
+Eupleridae,Salanoia,concolor,0.65,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Acinonyx,jubatus,46.7,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Caracal,aurata,10.65,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Caracal,caracal,13.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Catopuma,badia,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Catopuma,temminckii,11.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Felis,bieti,7.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Felis,chaus,7.393,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Felis,margarita,2.525,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Felis,nigripes,1.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Felis,silvestris,5.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Herpailurus,yagouaroundi,7.875,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,colocolo,3.935,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,geoffroyi,3.59,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,guigna,2.23,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,guttulus,2.674,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,jacobita,9.17,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,pardalis,11.9,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,tigrinus,2.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leopardus,wiedii,3.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Leptailurus,serval,12,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Lynx,canadensis,9.373,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Lynx,lynx,17.95,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Lynx,pardinus,9.4,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Lynx,rufus,8.904,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Neofelis,diardi,20.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Neofelis,nebulosa,20.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Otocolobus,manul,3.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,leo,161.499,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,onca,100,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,pardus,54.9997,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,spelaea,380.189,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,tigris,162.564,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Panthera,uncia,44.167,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Pardofelis,marmorata,2.854,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Prionailurus,bengalensis,3.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Prionailurus,planiceps,6.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Prionailurus,rubiginosus,1.384,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Prionailurus,viverrinus,9.14,Faurby et al (2018) Ecology 99 2626,Reported value
+Felidae,Puma,concolor,51.6,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Atilax,paludinosus,3.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Bdeogale,crassicauda,1.55,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Bdeogale,jacksoni,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Bdeogale,nigripes,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Bdeogale,omnivora,1.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Crossarchus,alexandri,1.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Crossarchus,ansorgei,0.7,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Crossarchus,obscurus,1.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Crossarchus,platycephalus,1,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Cynictis,penicillata,0.836,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Dologale,dybowskii,0.35,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Helogale,hirtula,0.289,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Helogale,parvula,0.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,auropunctatus,0.484,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,brachyurus,1.854,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,edwardsii,1.324,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,flavescens,0.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,fuscus,2.7,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,ichneumon,5.175,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,javanicus,0.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,naso,3,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,ochraceus,0.498,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,pulverulentus,0.797,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,sanguineus,0.55,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,semitorquatus,3.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,smithii,1.782,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,urva,1.863,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Herpestes,vitticollis,2.576,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Ichneumia,albicauda,3.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Liberiictis,kuhni,2.15,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Mungos,gambianus,1.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Mungos,mungo,1.925,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Paracynictis,selousi,1.64,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Rhynchogale,melleri,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Herpestidae,Suricata,suricatta,0.726,Faurby et al (2018) Ecology 99 2626,Reported value
+Hyanidae,Crocuta,crocuta,50,Wilson & Mittermeir (2009) Handbook of mammals of the world - Volume 1 Carnivores,Midpoint of range of reported normal sizes
+Hyanidae,Hyaena,hyaena,31.75,Wilson & Mittermeir (2009) Handbook of mammals of the world - Volume 1 Carnivores,Mean of sizes of males and females
+Hyanidae,Parahyaena,brunnea,40,Wilson & Mittermeir (2009) Handbook of mammals of the world - Volume 1 Carnivores,Reported average
+Hyanidae,Proteles,cristata,10,Wilson & Mittermeir (2009) Handbook of mammals of the world - Volume 1 Carnivores,Midpoint of range of reported normal sizes
+Mephetidae,Conepatus,chinga,1.918,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Conepatus,humboldtii,0.328,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Conepatus,leuconotus,3.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Conepatus,semistriatus,1.2,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Mephitis,macroura,0.801,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Mephitis,mephitis,2.085,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Mydaus,javanensis,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Mydaus,marchei,1.414,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Spilogale,angustifrons,0.387,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Spilogale,gracilis,0.522,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Spilogale,putorius,0.341,Faurby et al (2018) Ecology 99 2626,Reported value
+Mephetidae,Spilogale,pygmaea,0.235,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Aonyx,capensis,19,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Aonyx,cinerea,1.748,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Aonyx,congicus,23.8,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Arctonyx,albogularis,7.005,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Arctonyx,collaris,6.356,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Arctonyx,hoevenii,7.007,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Eira,barbara,3.91,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Enhydra,lutris,23.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Galictis,cuja,1,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Galictis,vittata,3.2,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Gulo,gulo,17.013,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Hydrictis,maculicollis,4,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Ictonyx,libycus,2.063,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Ictonyx,striatus,1.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lontra,canadensis,8.087,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lontra,felina,30.6,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lontra,longicaudis,6.555,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lontra,provocax,7.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lutra,lutra,8.785,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lutra,sumatrana,5.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lutrogale,perspicillata,9.483,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Lyncodon,patagonicus,0.225,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,americana,1.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,flavigula,1.843,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,foina,1.541,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,gwatkinsii,2.043,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,martes,1.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,melampus,1,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,pennanti,4,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Martes,zibellina,1.13,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Meles,anakuma,11.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Meles,leucurus,6.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Meles,meles,13,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mellivora,capensis,8.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Melogale,cucphuongensis,1.56,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Melogale,everetti,1.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Melogale,moschata,0.805,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Melogale,orientalis,2,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Melogale,personata,1.703,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,africana,0.537,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,altaica,0.171,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,erminea,0.119,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,eversmanii,1.35,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,felipei,0.211,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,frenata,0.147,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,itatsi,0.565,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,kathiah,0.208,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,lutreola,0.44,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,lutreolina,0.707,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,nigripes,0.85,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,nivalis,0.138,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,nudipes,0.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,putorius,0.915,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,russelliana,0.143,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,sibirica,0.405,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,strigidorsa,1.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,subpalmata,0.088,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Mustela,tonkinensis,0.142,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Neovison,macrodon,1.19,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Neovison,vison,0.945,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Poecilogale,albinucha,0.34,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Pteronura,brasiliensis,24,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Taxidea,taxus,7.108,Faurby et al (2018) Ecology 99 2626,Reported value
+Mustelidae,Vormela,peregusna,0.45,Faurby et al (2018) Ecology 99 2626,Reported value
+Nandiniidae,Nandinia,binotata,2,Faurby et al (2018) Ecology 99 2626,Reported value
+Prionodontidae,Prionodon,linsang,0.7,Faurby et al (2018) Ecology 99 2626,Reported value
+Prionodontidae,Prionodon,pardicolor,0.512,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassaricyon,alleni,1.235,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassaricyon,gabbii,1.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassaricyon,medius,1.262,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassaricyon,neblina,1.443,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassariscus,astutus,1.13,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Bassariscus,sumichrasti,0.9,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Nasua,narica,4.03,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Nasua,nasua,3.794,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Nasuella,meridensis,1.783,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Nasuella,olivacea,1.34,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Potos,flavus,3,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Procyon,cancrivorus,6.95,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Procyon,lotor,6.55,Faurby et al (2018) Ecology 99 2626,Reported value
+Procyonidae,Procyon,pygmaeus,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Ailuropoda,melanoleuca,108.4,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Helarctos,malayanus,46.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Melursus,ursinus,93.13,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Tremarctos,ornatus,140.001,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Ursus,americanus,99.949,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Ursus,arctos,180.52,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Ursus,maritimus,388.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Ursidae,Ursus,thibetanus,77.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Arctictis,binturong,9.875,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Arctogalidia,trivirgata,2.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Chrotogale,owstoni,3.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Civettictis,civetta,12,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Cynogale,bennettii,4.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Diplogale,hosei,1.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,abyssinica,1.65,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,angolensis,1.65,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,bourloni,1.75,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,cristata,2.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,genetta,1.8,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,johnstoni,2.225,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,maculata,2.225,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,pardina,3.1,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,piscivora,3,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,poensis,2.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,servalina,1.055,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,thierryi,1.4,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,tigrina,2.225,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Genetta,victoriae,3,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Hemigalus,derbyanus,2.323,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Macrogalidia,musschenbroekii,4,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Paguma,larvata,4.3,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Paradoxurus,hermaphroditus,3.157,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Paradoxurus,jerdoni,2.781,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Paradoxurus,zeylonensis,2.781,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Poiana,leightoni,0.6,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Poiana,richardsonii,0.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Viverra,civettina,12.794,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Viverra,megaspila,9.25,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Viverra,tangalunga,6.885,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Viverra,zibetha,9.5,Faurby et al (2018) Ecology 99 2626,Reported value
+Viverridae,Viverricula,indica,2.908,Faurby et al (2018) Ecology 99 2626,Reported value
