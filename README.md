@@ -17,7 +17,7 @@ Reported_size [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Re
 
 Bone_size_Hyaenodonta_and_Oxyaenida [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Bone_size_Hyaenodonta_and_Oxyaenida.csv) gives measurement on long-bones on selected Hyaenodonta and Oxyaenida
 
-Bone_size_Carnivoramorpha [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Bone_size_%20Carnivoramorpha.csv) gives source and method of calculation of long-bone derived estimates of body mass for selected Carnivoramorpha
+Precise_body_mass_Carnivoramorpha [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/Precise_body_mass_Carnivoramorpha.csv) gives source and method of estiamtion for likely more precise body masses inferred from long-bones for extinct species or directly measured for extant ones
 
 References [here] (https://github.com/sorenfaurby/CarniFOSS/blob/main/Data/References.csv) provides the full reference to all information given in the last three files
 
