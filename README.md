@@ -1,13 +1,12 @@
-### CarniFOSS v0.99
+### CarniFOSS v1.00
 A database of the body size of all fossil carnivores 
 
 Welcome to the repo for CarniFOSS
 
-This is a pre-release version of the database but it will likely be very close to the first formal version. 
+All data on this version currently matches the data in the published paper
+https://onlinelibrary.wiley.com/doi/10.1111/geb.13369?af=R
 
 In this database, you will find tooth size and estimated body masses for all extant or extinct species within Carnivora, Miacoidea, Hyaenodonta and Oxyaenida. The taxonomy of this database follows the taxonomy of Faurby et al (2019) [here] (https://www.biorxiv.org/content/10.1101/755207v1.abstract). For most of the extinct species the body masses are imputed based on measurements on their teeth but the database is designed to be complete and it also contains clearly marked size estiamtes inferred solely from phylogeny for a few taxa where we could not fint measurements 
-
-The database paper describing the underlying database is currently under review. It is available upon request and will be linked to here ASAP. 
 
 ### Data
 The database contains seven separate files 
@@ -31,7 +30,6 @@ We have tried our very best to collect all availbale information but it is unavo
 
 
 ### Citation
-Users of this database using it befor publication of the datapaper should just cite this github page. If you are using this pre-release version we would however greatly prefer if you contact us before so we can inform you on when the paper is out which can be cited properly.
 
-**Version 0.99
-> Faurby, S., Morlo, M., Werdelin L. (2021). CarniFOSS pre-release v. 0.99
+**Version 1.00
+> Faurby, S., Morlo, M., Werdelin L. (2021). CarniFOSS: A database of the body mass of fossil carnivores. Global Ecology and Biogeography https://doi.org/10.1111/geb.13369
